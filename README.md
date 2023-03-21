@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning Python and C
-- 🔭 I’m currently working on HLTV unofficial addition
 
 <!--
 **omixyy/Omixyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
