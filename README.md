@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python and C
 - 🔭 I’m currently working on HLTV unofficial addition
 
- ![Profile View Counter](https://komarev.com/ghpvc/?username=omixyy)
 <!--
 **omixyy/Omixyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
