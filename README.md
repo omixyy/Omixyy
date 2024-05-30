@@ -9,10 +9,12 @@ My name is Ivan and I'm a beginner web developer. Programming since 2021, gradua
 Currently I'm diving deeper into web development, application architectures, databases.
 
 ## Some stats
+<div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omixyy&theme=github_dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=omixyy&theme=github_dark&hide_border=false">
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=omixyy&count_private=true?show_icons=true&hide_border=false&theme=github_dark&text_color=868686&include_all_commits=true&layout=compact">
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=omixyy&count_private=true?show_icons=true&hide_border=false&theme=github_dark&text_color=868686&include_all_commits=true&layout=compact)
+</div>
 
 ## Technical stack
 
