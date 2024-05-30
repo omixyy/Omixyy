@@ -2,6 +2,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=omixyy&theme=darkhub)
 
+## About me
+
 My name is Ivan and I'm a beginner web developer. Programming since 2021, graduated from Yandex Lyceum, programming fundamentals and industrial programming courses, Django course. I have experience working with clients since my biggest project was developed for the Moscow State University.
 
 Currently I'm diving deeper into web development, application architectures, databases.
