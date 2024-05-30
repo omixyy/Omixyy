@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm ​<a href="https://github.com/omixyy" target="_blank">Omixyy</a></h1>
 
+![Views](https://komarev.com/ghpvc/?username=omixyy&style=for-the-badge)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=omixyy&theme=darkhub)
 
 ## About me
