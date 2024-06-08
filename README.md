@@ -50,3 +50,4 @@ Currently I'm diving deeper into web development, application architectures, dat
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitLabCI](https://img.shields.io/badge/GitLab%20CI-black?style=for-the-badge&logo=Gitlab)
 ![GitHubActions](https://img.shields.io/badge/GitHub%20Actions-%23121011?style=for-the-badge&logo=github)
+![Nginx](https://img.shields.io/badge/Nginx-%2343A047?style=for-the-badge&logo=Nginx)
